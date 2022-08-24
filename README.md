@@ -1,4 +1,5 @@
 # Gas cylinder monitoring system with GSM alert
+*Arduino code and fritzing diagrams are in the master branch*
 
 *Oxygen gas-cylinder monitoring system with GSM alert*
    The known mass cylinder is placed on load-cell, as the gas gets used up its(cylinder) weight decreases.
